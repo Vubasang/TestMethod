@@ -1,0 +1,6 @@
+C:\Users\Vu Ba Sang\source\repos\Методы тестирования и верификации ПО\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Vu Ba Sang\source\repos\Методы тестирования и верификации ПО\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Vu Ba Sang\source\repos\Методы тестирования и верификации ПО\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Vu Ba Sang\source\repos\Методы тестирования и верификации ПО\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ba Sang\source\repos\Методы тестирования и верификации ПО\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Vu Ba Sang\source\repos\Методы тестирования и верификации ПО\Lab2\Lab2\obj\Debug\Lab2.pdb
